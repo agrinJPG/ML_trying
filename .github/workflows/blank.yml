@@ -1,0 +1,17 @@
+name: own
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: windows
+
+    steps:
+    - uses: trying and learning
+    - name: how to use numpy
+      run: about one month
+    - name: try to learn some algorithms
+      run: about one month
+    - name: try to practice algorithm training model
+      run: about more than two months
